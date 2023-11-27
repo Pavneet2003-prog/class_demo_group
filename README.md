@@ -2,10 +2,10 @@
 ## Unit testing test functions
  The steps are as follows:
  <ol>
- <li> Initialize Your Project: Create a folder and a new file (Should have node js installed) </li>
- <li> Initialize npm </li>
+ Step <li> Initialize Your Project: Create a folder and a new file (Should have node js installed) </li>
+ Step <li> Initialize npm </li>
 Initialize npm to manage your project dependencies.
-Command : npm init -y
+    Command : npm init -y
 Step 3) Install Jest:
 Install Jest as your testing framework.
 npm install jest -D
