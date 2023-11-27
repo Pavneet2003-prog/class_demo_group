@@ -17,5 +17,5 @@
 <p>Step 6) Step 4: Run Tests</p>
 <p>In your terminal, run Jest to execute your tests:</p>
 <p>npm test</p>
-<p> Following step 5 and step 6 for isPalindrome function </p>
+<p> Following step 5 and step 6 for similar isPalindrome function </p>
 
