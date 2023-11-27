@@ -1,5 +1,5 @@
-# class_demo_group
- Unit testing test functions ...
+# Class_Demo_Group
+ ## Unit testing test functions ...
  The steps are as follows:
  Step 1)Initialize Your Project: Create a folder and a new file (Should have node js installed)
  Step 2) Initialize npm:
